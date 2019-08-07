@@ -1,2 +1,2 @@
 # computers
-A to-do list for computer work in the Marder Lab
+Issue tracker for computers in the marderlab
